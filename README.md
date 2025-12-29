@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning Machine learning  
   
-
-- ⚡ Fun fact: I am from NOVOVORONEZH  
   
 
 <br/>  
