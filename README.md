@@ -1,125 +1,100 @@
+<!-- Matrix rain header -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Arseniy, a ITMO Artificial Intelligence student 👨‍💻 </div>  
-  
+```
+█████╗ ██████╗ ███████╗███████╗███╗   ██╗██╗   ██╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝████╗  ██║╚██╗ ██╔╝
+███████║██████╔╝███████╗█████╗  ██╔██╗ ██║ ╚████╔╝ 
+██╔══██║██╔══██╗╚════██║██╔══╝  ██║╚██╗██║  ╚██╔╝  
+██║  ██║██║  ██║███████║███████╗██║ ╚████║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝  
+```
 
-- 🌱 I’m currently learning Machine learning  
-  
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&width=500&lines=ML+Engineer+%2F+Backend+Dev;Building+things+that+think;Python+%7C+Go+%7C+PyTorch;Debugging+reality+since+birth" alt="Typing SVG" />
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ars3ny-debug&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00cc66&text_color=ccffcc&ring_color=00ff88" />
 
+### `whoami`
 
-### Backend  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+```python
+class Arseny:
+    name     = "Арсений"
+    alias    = "ars3ny-debug"
+    focus    = ["ML", "Backend", "Research"]
+    stack    = ["Python", "C", "Go", "PyTorch", "FastAPI"]
+    
+    def current_mission(self):
+        return "Train models. Ship APIs. Repeat."
+```
+
+<br clear="right"/>
+
+---
+
+### `⚡ Tech Stack`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff88)
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00ff88)
+![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=00ff88)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00ff88)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=00ff88)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00ff88)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00ff88)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00ff88)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00ff88)
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+### `📡 Currently`
 
+```
+┌─────────────────────────────────────────────────┐
+│  🧠  Изучаю:    LLM Fine-tuning / RAG системы   │
+│  🔧  Строю:     Backend сервисы на Go + Python   │
+│  📖  Читаю:     Arxiv. Много arxiv.             │
+│  🎯  Цель:      Production ML без боли          │
+└─────────────────────────────────────────────────┘
+```
 
-### Design  
-<div align="center">  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>  
+---
 
+### `📊 Stats`
 
+<div align="center">
 
-### DevOps  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars3ny-debug&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ccffcc&langs_count=6" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ars3ny-debug&theme=dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=00ff88&dates=ccffcc&currStreakNum=ffffff&sideNums=ffffff" />
+
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ars3ny-debug&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+### `📬 Connect`
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+[![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/ars3ny)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/ars3ny-debug)
+
+</div>
+
+---
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+```
+// "Any sufficiently advanced debugging is indistinguishable from magic."
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ars3ny-debug.ars3ny-debug&left_color=0d0d0d&right_color=00ff88&left_text=visitors)
+
+</div>
